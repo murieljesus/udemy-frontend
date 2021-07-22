@@ -139,7 +139,7 @@ p {
     a#learn {
         display: none;
     }
-    a:hover {
+    nav a:hover {
         background: unset;
         padding: unset;
         transition: none;
