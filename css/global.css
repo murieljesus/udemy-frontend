@@ -92,7 +92,7 @@ p {
 @media screen and (max-width: 800px) {
     div.learncard,
     div.course {
-        width: 310px;
+        width: 320px;
         height: 400px;
         margin-bottom: 20px;
         margin-top: 10px;
